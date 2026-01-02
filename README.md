@@ -31,6 +31,8 @@ servo.set_position(180)
 servo.disconnect()
 ```
 
+Run `python3 demo_cover.py` for demoing opening and closing the cover/LED arm.
+
 ## API Reference
 
 ### Constructor
